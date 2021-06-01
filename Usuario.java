@@ -14,5 +14,5 @@ public class Usuario {
 	private String Id;
 	private String nombre;
 	private String correo;
-
+private String telefono;
 }
